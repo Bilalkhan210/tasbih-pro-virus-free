@@ -1,0 +1,148 @@
+{
+  "common": {
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "start": "بدء",
+    "delete": "حذف",
+    "add": "إضافة",
+    "continue": "متابعة",
+    "week": "أسبوع",
+    "month": "شهر",
+    "year": "سنة",
+    "days": "أيام"
+  },
+  "languages": {
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "urdu": "الأردية",
+    "changeLanguage": "تغيير اللغة",
+    "selectLanguage": "اختر لغتك المفضلة",
+    "restartTitle": "يلزم إعادة التشغيل",
+    "restartHint": "يرجى إغلاق التطبيق وإعادة فتحه لتطبيق التخطيط من اليمين إلى اليسار."
+  },
+  "home": {
+    "tapHint": "اضغط في أي مكان للبدء",
+    "swipeHint": "(اسحب من اليمين إلى اليسار أو خفض الصوت للإنقاص)",
+    "swipeHintNoVolume": "(اسحب من اليمين إلى اليسار للإنقاص)",
+    "setTarget": "تعيين الهدف",
+    "roundComplete": "اكتملت الجولة",
+    "roundCompleteMessage": "انتهت الجولة {{round}}",
+    "roundCompleteAutoMessage": "انتهت الجولة {{round}}. هل تريد المتابعة؟",
+    "continueAuto": "متابعة",
+    "stopAuto": "إيقاف",
+    "volumeLongPressTitle": "زر الصوت",
+    "volumeLongPressMessage": "اضغط زر الصوت بشكل مختصر. الضغط المطوّل غير مدعوم."
+  },
+  "tasbih": {
+    "title": "تسبيح",
+    "subtitle": "اختر ذكراً أو ابدأ العد",
+    "lapLimit": "حد الجولة: {{count}}",
+    "deleteTitle": "حذف العداد",
+    "deleteMessage": "إزالة \"{{name}}\"؟"
+  },
+  "statistics": {
+    "title": "الإحصائيات",
+    "overview": "نظرة عامة",
+    "totalCount": "العدد الكلي",
+    "today": "اليوم",
+    "dailyAvg": "المتوسط اليومي",
+    "streak": "التتابع",
+    "progressOverTime": "التقدم مع الوقت",
+    "tasbeehDistribution": "توزيع التسبيح",
+    "tasbeehProgress": "تقدم التسبيح",
+    "noData": "لا توجد بيانات",
+    "noDataProgress": "ابدأ العد لرؤية تقدمك",
+    "noDataDistribution": "ابدأ عد أنواع مختلفة من التسبيح لرؤية التوزيع"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "general": "عام",
+    "controls": "التحكم",
+    "display": "العرض",
+    "changeLanguage": "تغيير اللغة",
+    "notificationReminder": "إشعارات الذكر بعد الصلاة",
+    "roundCompleteSound": "صوت اكتمال الجولة",
+    "countSound": "صوت العد",
+    "roundCompleteVibration": "اهتزاز اكتمال الجولة",
+    "countVibration": "اهتزاز العد",
+    "volumeButtonControl": "التحكم بأزرار الصوت",
+    "roundCompleteAlert": "تنبيه اكتمال الجولة",
+    "timer": "المؤقت",
+    "autoCounter": "العد التلقائي",
+    "showCounterName": "إظهار اسم العداد",
+    "rounds": "الجولات",
+    "lapLimit": "حد الجولة"
+  },
+  "notifications": {
+    "channelName": "تذكيرات الذكر بعد الصلاة",
+    "locationPermissionTitle": "استخدام موقعك",
+    "locationPermissionMessage": "يستخدم تطبيق تسبيح برو موقعك لحساب أوقات الصلوات الخمس.",
+    "prayerTitle": "وقت ذكر {{prayer}} - تسبيح برو",
+    "prayerBody": "ذكر {{prayer}} يجلب السكينة إلى قلبك.",
+    "prayers": {
+      "fajr": "الفجر",
+      "dhuhr": "الظهر",
+      "asr": "العصر",
+      "maghrib": "المغرب",
+      "isha": "العشاء"
+    }
+  },
+  "profileMenu": {
+    "title": "إعدادات الملف",
+    "counterList": "قائمة العدادات",
+    "settings": "الإعدادات",
+    "theme": "السمة",
+    "changeLanguage": "تغيير اللغة",
+    "rateUs": "قيّمنا",
+    "shareApp": "مشاركة التطبيق",
+    "about": "حول",
+    "shareMessage": "جرّب تسبيح برو — عداد تسبيح رقمي جميل."
+  },
+  "autoCounter": {
+    "title": "إعداد العد التلقائي",
+    "touch": "لمس",
+    "timer": "مؤقت",
+    "touchSubtitle": "اضغط 3 مرات للبدء، ثم اضغط التسبيح بسرعتك",
+    "timerSubtitle": "حدد فترة العد التلقائي بالثواني",
+    "tapHere": "اضغط هنا",
+    "seconds": "ثوانٍ"
+  },
+  "createCounter": {
+    "createTitle": "إنشاء عداد",
+    "editTitle": "تعديل العداد",
+    "namePlaceholder": "اسم العداد",
+    "countPlaceholder": "العدد الابتدائي",
+    "lapLimitPlaceholder": "حد الجولة"
+  },
+  "counter": {
+    "round": "جولة",
+    "count": "العدد"
+  },
+  "about": {
+    "title": "حول",
+    "description": "تسبيح برو — عداد تسبيح رقمي."
+  },
+  "days": {
+    "mon": "إث",
+    "tue": "ثل",
+    "wed": "أر",
+    "thu": "خم",
+    "fri": "جم",
+    "sat": "سب",
+    "sun": "أح"
+  },
+  "months": {
+    "jan": "ينا",
+    "feb": "فبر",
+    "mar": "مار",
+    "apr": "أبر",
+    "may": "ماي",
+    "jun": "يون",
+    "jul": "يول",
+    "aug": "أغس",
+    "sep": "سبت",
+    "oct": "أكت",
+    "nov": "نوف",
+    "dec": "ديس"
+  }
+}

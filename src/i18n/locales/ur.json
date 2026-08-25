@@ -1,0 +1,148 @@
+{
+  "common": {
+    "cancel": "منسوخ",
+    "save": "محفوظ",
+    "start": "شروع",
+    "delete": "حذف",
+    "add": "شامل",
+    "continue": "جاری رکھیں",
+    "week": "ہفتہ",
+    "month": "مہینہ",
+    "year": "سال",
+    "days": "دن"
+  },
+  "languages": {
+    "english": "انگریزی",
+    "arabic": "عربی",
+    "urdu": "اردو",
+    "changeLanguage": "زبان تبدیل کریں",
+    "selectLanguage": "اپنی پسندیدہ زبان منتخب کریں",
+    "restartTitle": "دوبارہ شروع ضروری",
+    "restartHint": "دائیں سے بائیں ترتیب کے لیے ایپ بند کر کے دوبارہ کھولیں۔"
+  },
+  "home": {
+    "tapHint": "شروع کرنے کے لیے کہیں بھی ٹیپ کریں",
+    "swipeHint": "(کم کرنے کے لیے دائیں سے بائیں سوائپ کریں یا والیوم کم کریں)",
+    "swipeHintNoVolume": "(کم کرنے کے لیے دائیں سے بائیں سوائپ کریں)",
+    "setTarget": "ہدف مقرر کریں",
+    "roundComplete": "راؤنڈ مکمل",
+    "roundCompleteMessage": "راؤنڈ {{round}} مکمل ہو گیا",
+    "roundCompleteAutoMessage": "راؤنڈ {{round}} مکمل ہو گیا۔ کیا آپ جاری رکھنا چاہتے ہیں؟",
+    "continueAuto": "جاری رکھیں",
+    "stopAuto": "روکیں",
+    "volumeLongPressTitle": "والیوم بٹن",
+    "volumeLongPressMessage": "والیوم بٹن کو مختصر دبائیں۔ دیر تک دبانا سپورٹ نہیں ہے۔"
+  },
+  "tasbih": {
+    "title": "تسبیح",
+    "subtitle": "ذکر منتخب کریں یا گنتی شروع کریں",
+    "lapLimit": "لیپ حد: {{count}}",
+    "deleteTitle": "کاؤنٹر حذف کریں",
+    "deleteMessage": "\"{{name}}\" ہٹائیں؟"
+  },
+  "statistics": {
+    "title": "اعداد و شمار",
+    "overview": "جائزہ",
+    "totalCount": "کل گنتی",
+    "today": "آج",
+    "dailyAvg": "یومیہ اوسط",
+    "streak": "سلسلہ",
+    "progressOverTime": "وقت کے ساتھ پیش رفت",
+    "tasbeehDistribution": "تسبیح کی تقسیم",
+    "tasbeehProgress": "تسبیح کی پیش رفت",
+    "noData": "کوئی ڈیٹا نہیں",
+    "noDataProgress": "اپنی پیش رفت دیکھنے کے لیے گنتی شروع کریں",
+    "noDataDistribution": "تقسیم دیکھنے کے لیے مختلف اذکار گنیں"
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "general": "عمومی",
+    "controls": "کنٹرول",
+    "display": "ڈسپلے",
+    "changeLanguage": "زبان تبدیل کریں",
+    "notificationReminder": "نماز کے بعد ذکر کی اطلاعات",
+    "roundCompleteSound": "راؤنڈ مکمل آواز",
+    "countSound": "گنتی کی آواز",
+    "roundCompleteVibration": "راؤنڈ مکمل وائبریشن",
+    "countVibration": "گنتی وائبریشن",
+    "volumeButtonControl": "والیوم بٹن کنٹرول",
+    "roundCompleteAlert": "راؤنڈ مکمل الرٹ",
+    "timer": "ٹائمر",
+    "autoCounter": "خودکار گنتی",
+    "showCounterName": "کاؤنٹر نام دکھائیں",
+    "rounds": "راؤنڈز",
+    "lapLimit": "لیپ حد"
+  },
+  "notifications": {
+    "channelName": "نماز کے بعد ذکر کی یاددہانی",
+    "locationPermissionTitle": "اپنا مقام استعمال کریں",
+    "locationPermissionMessage": "تسبیح پرو پانچوں نمازوں کے اوقات معلوم کرنے کے لیے آپ کا مقام استعمال کرتا ہے۔",
+    "prayerTitle": "{{prayer}} کے ذکر کا وقت - تسبیح پرو",
+    "prayerBody": "{{prayer}} کا ذکر آپ کے دل کو سکون دیتا ہے۔",
+    "prayers": {
+      "fajr": "فجر",
+      "dhuhr": "ظہر",
+      "asr": "عصر",
+      "maghrib": "مغرب",
+      "isha": "عشاء"
+    }
+  },
+  "profileMenu": {
+    "title": "پروفائل ترتیبات",
+    "counterList": "کاؤنٹر فہرست",
+    "settings": "ترتیبات",
+    "theme": "تھیم",
+    "changeLanguage": "زبان تبدیل کریں",
+    "rateUs": "ہمیں درجہ دیں",
+    "shareApp": "ایپ شیئر کریں",
+    "about": "متعلق",
+    "shareMessage": "تسبیح پرو دیکھیں — خوبصورت ڈیجیٹل تسبیح کاؤنٹر۔"
+  },
+  "autoCounter": {
+    "title": "خودکار گنتی سیٹ اپ",
+    "touch": "ٹچ",
+    "timer": "ٹائمر",
+    "touchSubtitle": "شروع کرنے کے لیے 3 بار ٹیپ کریں، پھر اپنی رفتار سے تسبیح ٹیپ کریں",
+    "timerSubtitle": "خودکار گنتی کا وقفہ سیکنڈز میں مقرر کریں",
+    "tapHere": "یہاں ٹیپ کریں",
+    "seconds": "سیکنڈ"
+  },
+  "createCounter": {
+    "createTitle": "کاؤنٹر بنائیں",
+    "editTitle": "کاؤنٹر میں ترمیم",
+    "namePlaceholder": "کاؤنٹر کا نام",
+    "countPlaceholder": "ابتدائی گنتی",
+    "lapLimitPlaceholder": "لیپ حد"
+  },
+  "counter": {
+    "round": "راؤنڈ",
+    "count": "گنتی"
+  },
+  "about": {
+    "title": "متعلق",
+    "description": "تسبیح پرو — ڈیجیٹل تسبیح کاؤنٹر۔"
+  },
+  "days": {
+    "mon": "پیر",
+    "tue": "منگل",
+    "wed": "بدھ",
+    "thu": "جمعرات",
+    "fri": "جمعہ",
+    "sat": "ہفتہ",
+    "sun": "اتوار"
+  },
+  "months": {
+    "jan": "جنوری",
+    "feb": "فروری",
+    "mar": "مارچ",
+    "apr": "اپریل",
+    "may": "مئی",
+    "jun": "جون",
+    "jul": "جولائی",
+    "aug": "اگست",
+    "sep": "ستمبر",
+    "oct": "اکتوبر",
+    "nov": "نومبر",
+    "dec": "دسمبر"
+  }
+}

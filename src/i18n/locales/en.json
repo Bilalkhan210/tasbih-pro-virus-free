@@ -1,0 +1,148 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "start": "Start",
+    "delete": "Delete",
+    "add": "Add",
+    "continue": "Continue",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+    "days": "days"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic",
+    "urdu": "Urdu",
+    "changeLanguage": "Change Language",
+    "selectLanguage": "Select your preferred language",
+    "restartTitle": "Restart required",
+    "restartHint": "Please close and reopen the app to apply right-to-left layout."
+  },
+  "home": {
+    "tapHint": "Tap anywhere to begin",
+    "swipeHint": "(swipe right-left or volume down to decrease)",
+    "swipeHintNoVolume": "(swipe right-left to decrease)",
+    "setTarget": "Set target count",
+    "roundComplete": "Round complete",
+    "roundCompleteMessage": "Round {{round}} finished",
+    "roundCompleteAutoMessage": "Round {{round}} finished. Do you want to continue?",
+    "continueAuto": "Continue",
+    "stopAuto": "Stop",
+    "volumeLongPressTitle": "Volume button",
+    "volumeLongPressMessage": "Press the volume button briefly. Holding it down is not supported."
+  },
+  "tasbih": {
+    "title": "Tasbih",
+    "subtitle": "Choose a dhikr or start counting",
+    "lapLimit": "Lap limit: {{count}}",
+    "deleteTitle": "Delete counter",
+    "deleteMessage": "Remove \"{{name}}\"?"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "overview": "Overview",
+    "totalCount": "Total Count",
+    "today": "Today",
+    "dailyAvg": "Daily Avg",
+    "streak": "Streak",
+    "progressOverTime": "Progress Over Time",
+    "tasbeehDistribution": "Tasbeeh Distribution",
+    "tasbeehProgress": "Tasbeeh Progress",
+    "noData": "No data available",
+    "noDataProgress": "Start counting to see your progress",
+    "noDataDistribution": "Start counting different Tasbeehs to see distribution"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "controls": "Controls",
+    "display": "Display",
+    "changeLanguage": "Change language",
+    "notificationReminder": "Prayer dhikr notifications",
+    "roundCompleteSound": "Round complete sound",
+    "countSound": "Count sound",
+    "roundCompleteVibration": "Round complete vibration",
+    "countVibration": "Count vibration",
+    "volumeButtonControl": "Volume button control",
+    "roundCompleteAlert": "Round complete alert",
+    "timer": "Timer",
+    "autoCounter": "Auto counter",
+    "showCounterName": "Show counter name",
+    "rounds": "Rounds",
+    "lapLimit": "Lap limit"
+  },
+  "notifications": {
+    "channelName": "Prayer dhikr reminders",
+    "locationPermissionTitle": "Use your location",
+    "locationPermissionMessage": "Noor Tasbih uses your location to calculate the five daily prayer times.",
+    "prayerTitle": "{{prayer}} Dhikr Time - Noor Tasbih",
+    "prayerBody": "{{prayer}} dhikr brings peace to your heart.",
+    "prayers": {
+      "fajr": "Fajr",
+      "dhuhr": "Dhuhr",
+      "asr": "Asr",
+      "maghrib": "Maghrib",
+      "isha": "Isha"
+    }
+  },
+  "profileMenu": {
+    "title": "Profile Settings",
+    "counterList": "Counter List",
+    "settings": "Settings",
+    "theme": "Theme",
+    "changeLanguage": "Change Language",
+    "rateUs": "Rate us",
+    "shareApp": "Share app",
+    "about": "About",
+    "shareMessage": "Check out Noor Tasbih - a beautiful digital tasbih counter."
+  },
+  "autoCounter": {
+    "title": "Setup Auto Counter",
+    "touch": "Touch",
+    "timer": "Timer",
+    "touchSubtitle": "Tap 3 times to start, then tap the tasbih at your speed",
+    "timerSubtitle": "Set your auto count interval in seconds",
+    "tapHere": "Tap here",
+    "seconds": "Seconds"
+  },
+  "createCounter": {
+    "createTitle": "Create Counter",
+    "editTitle": "Edit Counter",
+    "namePlaceholder": "Counter Name",
+    "countPlaceholder": "Initial Count",
+    "lapLimitPlaceholder": "Lap Limit"
+  },
+  "counter": {
+    "round": "Round",
+    "count": "Count"
+  },
+  "about": {
+    "title": "About",
+    "description": "Noor Tasbih - digital tasbih counter."
+  },
+  "days": {
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat",
+    "sun": "Sun"
+  },
+  "months": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  }
+}
